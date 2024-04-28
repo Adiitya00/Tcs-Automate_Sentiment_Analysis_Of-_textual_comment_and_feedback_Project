@@ -1,17 +1,17 @@
-**#Project Title**
+###**Project Title**
 Tcs-Automate_Sentiment_Analysis_Of_textual_comment_and_feedback_Project
 
-**#Project Description:**
+**Project Description:**
  ** #Project Objective & Brief:**
 To develop a deep learning algorithm to detect different types of sentiment contained in a collection of English Sentences or a large paragraph.
 
-**#Project Guidelines:**
+**Project Guidelines:**
 Identify & finalize a collection of English sentences or a large paragraph which will also cover contradictory statements. Develop a deep learning model for detection & segmentation of sentiments whether positive, negative, or neutral from the paragraph. Test the model accuracy.
 
-**#Expected Project Outcome:**
+**Expected Project Outcome:**
 Algorithms to detect different types of sentiment from a paragraph. Detailed presentation with proof of reasonable accuracy.
 
-**#Software Requirements: -**
+**Software Requirements: -**
 to Implement the Project: Google Collab Python Java (opt.) Eclipse Ubuntu OS (opt.)
 
 **#Hardware Requirements: -**
