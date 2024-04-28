@@ -31,3 +31,6 @@ Enable the model to segment sentiments within extensive paragraphs or sentences.
 
 4.Security: Data Privacy: Specify measures to protect user data and ensure compliance with privacy regulations
 In Sentiment analysis, the data mainly focuses on whether the feedback to a product is : negative positive neutral
+
+
+![digram](https://github.com/Adiitya00/Tcs-Automate_Sentiment_Analysis_Of-_textual_comment_and_feedback_Project/assets/168369378/730688fe-6088-4126-b470-97c2ca76e74b)
